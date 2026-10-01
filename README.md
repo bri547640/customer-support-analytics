@@ -40,6 +40,5 @@ I used **PostgreSQL in DBeaver** for the SQL analysis and **Tableau** to create 
 
 ## Project Files
 
-- [support_tickets.csv](support_tickets.csv) — dataset used for the analysis
-- [SQL analysis](sql/support_ticket_analysis.sql) — SQL queries used to answer the analysis questions
+- [support_tickets.csv](./support_tickets.csv) — dataset used for the analysis- [SQL analysis](sql/support_ticket_analysis.sql) — SQL queries used to answer the analysis questions
 - [Tableau Dashboard](https://public.tableau.com/app/profile/brittnie.chenier/viz/CustomerSupportOperationsDashboard/CustomerSupportOperationsDashboard) — interactive dashboard 
